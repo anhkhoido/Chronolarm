@@ -1,0 +1,78 @@
+
+/* Class = "IBUILabel"; text = "Each series' length"; ObjectID = "0LO-mR-EvG"; */
+"0LO-mR-EvG.text" = "Durée de chaque série";
+
+/* Class = "IBUILabel"; text = "Berto Bettencourt"; ObjectID = "0Wp-cX-Y1A"; */
+"0Wp-cX-Y1A.text" = "Berto Bettencourt";
+
+/* Class = "IBUILabel"; text = "Credit"; ObjectID = "1lR-Wm-DGB"; */
+"1lR-Wm-DGB.text" = "Mentions";
+
+/* Class = "IBUILabel"; text = "Jean-Luc David"; ObjectID = "3Qz-Nc-jiy"; */
+"3Qz-Nc-jiy.text" = "Jean-Luc David";
+
+/* Class = "IBUILabel"; text = "Chronolarm"; ObjectID = "6c6-Wp-C8a"; */
+"6c6-Wp-C8a.text" = "Chronolarm";
+
+/* Class = "IBUILabel"; text = "00 : 00"; ObjectID = "6xd-BE-yTZ"; */
+"6xd-BE-yTZ.text" = "00 : 00";
+
+/* Class = "IBUIButton"; normalTitle = "Start"; ObjectID = "8EN-1x-T1b"; */
+"8EN-1x-T1b.normalTitle" = "Start";
+
+/* Class = "IBUILabel"; text = "00 : 00"; ObjectID = "918-DO-9vS"; */
+"918-DO-9vS.text" = "00 : 00";
+
+/* Class = "IBUIButton"; normalTitle = "Home"; ObjectID = "9Pt-re-bmr"; */
+"9Pt-re-bmr.normalTitle" = "Accueil";
+
+/* Class = "IBUILabel"; text = "Developed by"; ObjectID = "GtV-CM-UfS"; */
+"GtV-CM-UfS.text" = "Développée par";
+
+/* Class = "IBUIButton"; normalTitle = "Home"; ObjectID = "HTo-jt-bWU"; */
+"HTo-jt-bWU.normalTitle" = "Accueil";
+
+/* Class = "IBUILabel"; text = "my family"; ObjectID = "I0k-QL-ZN8"; */
+"I0k-QL-ZN8.text" = "ma famille";
+
+/* Class = "IBUILabel"; text = "Kwame Bryan"; ObjectID = "J9G-Iw-Zay"; */
+"J9G-Iw-Zay.text" = "Kwame Bryan";
+
+/* Class = "IBUILabel"; text = "Anh Khoi Do"; ObjectID = "JC2-cz-TfK"; */
+"JC2-cz-TfK.text" = "Anh Khoi Do";
+
+/* Class = "IBUILabel"; text = "and"; ObjectID = "MU3-yg-5CR"; */
+"MU3-yg-5CR.text" = "et";
+
+/* Class = "IBUILabel"; text = "This app was developed in Toronto, Ontario (Canada) in 2014."; ObjectID = "R8e-Bg-mwY"; */
+"R8e-Bg-mwY.text" = "Cette application fut développée à Toronto, Ontario (Canada) en 2014.";
+
+/* Class = "IBUILabel"; text = "Special thanks"; ObjectID = "cRh-oA-pmL"; */
+"cRh-oA-pmL.text" = "Remerciements spéciaux";
+
+/* Class = "IBUILabel"; text = "Each break's length"; ObjectID = "dVC-4t-4Vg"; */
+"dVC-4t-4Vg.text" = "Durée de chaque repos";
+
+/* Class = "IBUIButton"; normalTitle = "Pause"; ObjectID = "gsb-0G-8Jp"; */
+"gsb-0G-8Jp.normalTitle" = "Pause";
+
+/* Class = "IBUILabel"; text = "Adrian Sharma"; ObjectID = "jQI-3h-suW"; */
+"jQI-3h-suW.text" = "Adrian Sharma";
+
+/* Class = "IBUILabel"; text = "Richard Lee"; ObjectID = "lEX-q5-Ejq"; */
+"lEX-q5-Ejq.text" = "Richard Lee";
+
+/* Class = "IBUILabel"; text = "00 : 00"; ObjectID = "pvf-Pg-EFO"; */
+"pvf-Pg-EFO.text" = "00 : 00";
+
+/* Class = "IBUIButton"; normalTitle = "Reset"; ObjectID = "s6H-1B-LSe"; */
+"s6H-1B-LSe.normalTitle" = "Redémarrer";
+
+/* Class = "IBUILabel"; text = "Workout's total length"; ObjectID = "sot-lG-Ore"; */
+"sot-lG-Ore.text" = "Durée totale de l'exercice";
+
+/* Class = "IBUILabel"; text = "GoGreen"; ObjectID = "vLz-m3-VtV"; */
+"vLz-m3-VtV.text" = "GoGreen";
+
+/* Class = "IBUIButton"; normalTitle = "Credit"; ObjectID = "yfl-Wz-B8I"; */
+"yfl-Wz-B8I.normalTitle" = "Mentions";

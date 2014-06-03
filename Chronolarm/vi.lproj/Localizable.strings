@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Chronolarm
+
+  Created by Anh Khoi Do on 2014-03-30.
+  Copyright (c) 2014 Anh Khoi Do. All rights reserved.
+*/
+
+"TITLE" = "Xin chúc mừng";
+
+"WORKOUT_OVER" = "Tập thể dục của bạn là hơn.";
+
+"OKAY" = "Được";
+
+"WARNING" = "Cảnh báo";
+
+"WARNING_MESSAGE" = "Không được lười biếng.";

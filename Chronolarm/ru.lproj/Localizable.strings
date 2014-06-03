@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Chronolarm
+
+  Created by Anh Khoi Do on 2014-03-30.
+  Copyright (c) 2014 Anh Khoi Do. All rights reserved.
+*/
+"TITLE" = "Поздравляем!";
+
+"WORKOUT_OVER" = "Ваша тренировочная закончилась.";
+
+"OKAY" = "хорошо";
+
+"WARNING" = "предупреждение";
+
+"WARNING_MESSAGE" = "Не ленитесь.";

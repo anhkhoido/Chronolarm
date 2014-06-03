@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Chronolarm
+
+  Created by Anh Khoi Do on 2014-03-30.
+  Copyright (c) 2014 Anh Khoi Do. All rights reserved.
+*/
+
+"TITLE" = "축하합니다!";
+
+"WORKOUT_OVER" = "당신의 운동은 끝났습니다.";
+
+"OKAY" = "좋아요";
+
+"WARNING" = "경고";
+
+"WARNING_MESSAGE" = "게으른하지 마십시오.";
